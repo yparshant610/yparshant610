@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yparshant610
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning c++, python, c
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Mobile Development 
 - 📫 How to reach me https://www.linkedin.com/in/parshant-yadav-463aa6201
 
 <!---
