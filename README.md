@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @yparshant610<br>💻 I’m a passionate Full-Stack Developer focused on scalable web solutions.<br>👀 I’m interested in Microservices, Serverless Architectures (AWS/GCP), and real-time data streaming.<br>🌱 I’m currently sharpening my skills in Java and exploring GraphQL.<br>💞️ I’m looking to collaborate on innovative SaaS applications or challenging web development projects.<br>📫 How to reach me: <br>    🌐 Portfolio: https://portfolio-parshant-nu.vercel.app/<br>    🔗 LinkedIn: https://www.linkedin.com/in/parshant-yadav<br>⚡ Tech Stack: Java, Angular, TypeScript, React, Node.js, Next.js, PostgreSQL/MongoDB, Docker.<br>
+👋 Hi, I’m @yparshant610<br>💻 I’m a passionate Full-Stack Developer focused on scalable web solutions.<br>👀 I’m interested in Microservices, Serverless Architectures (AWS/GCP), and real-time data streaming.<br>🌱 I’m currently sharpening my skills in Java and exploring GraphQL.<br>💞️ I’m looking to collaborate on innovative SaaS applications or challenging web development projects.<br>📫 How to reach me: <br>    🌐 Portfolio: https://portfolio-parshant-nu.vercel.app/<br>    🔗 LinkedIn: https://www.linkedin.com/in/parshant-yadav<br>⚡ Tech Stack: Express.js, Java, Angular, TypeScript, React, Node.js, Next.js, PostgreSQL/MongoDB, Docker.<br>
 
 
 # 💻 Tech Stack:
